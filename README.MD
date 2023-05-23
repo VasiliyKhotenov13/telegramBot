@@ -6,7 +6,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MIRO](https://embed-ssl.wistia.com/deliveries/af4c6e3053c5a7ac2ad37c434af02aa9.webp?wistia-9q27hlstol-1-9q27hlstol-video-thumbnail=1&image_crop_resized=95x27)
 
-<h2>ТЕЛЕГРАМ-БОТ ДЛЯ ПРИЮТА ЖИВОТНЫХ.</h2>
+<h2>ТЕЛЕГРАМ-БОТ ДЛЯ ПРИЮТА ЖИВОТНЫХ</h2>
 
 ***Телеграм-бот, который отвечает на вопросы людей, 
 интересующихся о том, что необходимо сделать для 
